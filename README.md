@@ -14,7 +14,7 @@ To run the project:
    git clone https://github.com/your-username/html-portfolio.git
 
 2. Navigate to the project folder:
-```bash
-cd html-portfolio
+   ```bash
+   cd html-portfolio
 
 3. Open the `index.html` file in your browser to explore the website.
