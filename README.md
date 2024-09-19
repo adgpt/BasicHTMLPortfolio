@@ -18,3 +18,6 @@ To run the project:
    cd html-portfolio
 
 3. Open the `index.html` file in your browser to explore the website.
+
+## Live Demo
+You can view the live demo of this project here[https://adgpt.github.io/BasicHTMLPortfolio/]
