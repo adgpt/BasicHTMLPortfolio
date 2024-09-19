@@ -12,4 +12,9 @@ To run the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/html-portfolio.git
-2. Open the `index.html` file in a browser to navigate through the website.
+
+2. Navigate to the project folder:
+```bash
+cd html-portfolio
+
+3. Open the `index.html` file in your browser to explore the website.
